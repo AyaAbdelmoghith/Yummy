@@ -26,6 +26,14 @@ Yummy is built using the following technologies:
 - JavaScript
 - jQuery
 - Fetch API
+  
+## Video
+
+
+
+https://github.com/AyaAbdelmoghith/Yummy/assets/105630381/5ab0fd3a-84e0-49ff-b082-929020171f76
+
+
 
 ## Installation
 
